@@ -1,4 +1,4 @@
-# keith/alexa
+# stdlib + Amazon Alexa = <3
 
 This is a basic Amazon Alexa setup for [stdlib](https://stdlib.com).
 
