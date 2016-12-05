@@ -1,0 +1,17 @@
+{
+  "name": "alexa",
+  "version": "0.0.0",
+  "description": "Service",
+  "author": "Unknown",
+  "main": "f/main/index.js",
+  "dependencies": {
+    "f": "latest"
+  },
+  "private": true,
+  "stdlib": {
+    "name": "<username>/alexa",
+    "defaultFunction": "main",
+    "timeout": 10000,
+    "publish": false
+  }
+}

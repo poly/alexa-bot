@@ -1,0 +1,9 @@
+{
+  "name": "greeting",
+  "description": "Greetings from Alexa Bot",
+  "args": [],
+  "kwargs": {},
+  "http": {
+    "headers": {}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "main",
+  "description": "Main Alexa endpoint",
+  "args": [],
+  "kwargs": {},
+  "http": {
+    "headers": {}
+  }
+}

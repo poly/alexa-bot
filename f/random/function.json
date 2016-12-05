@@ -1,0 +1,9 @@
+{
+  "name": "random",
+  "description": "Generate a random number",
+  "args": [],
+  "kwargs": {},
+  "http": {
+    "headers": {}
+  }
+}
