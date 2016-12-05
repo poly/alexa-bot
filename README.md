@@ -10,16 +10,18 @@ request intent. These other functions are also standalone HTTP endpoints
 We'll be releasing a more detailed guide as to how to set this up with Alexa
 (on the Amazon end) this week.
 
-You can deploy this to [stdlib](https://stdlib.com) by [downloading the stdlib
-CLI tools](https://github.com/poly/stdlib), typing
+You can deploy this to [stdlib](https://stdlib.com) using [the stdlib
+CLI tools](https://github.com/poly/stdlib) - simply start with the following;
 
 ```
+$ npm install lib -g
 $ lib init
 ```
 
-in a parent directory, cloning this repo, and then properly setting
-the service name to begin with your username in `package.json`. Make sure the
-username is set to the username you signed up with.
+(Must have Node 6+ installed, follow instructions provided [here](https://github.com/poly/stdlib).)
+
+After your workspace is configured, set the service name to begin with your username in `package.json`.
+Make sure the username is set to the username you signed up with.
 
 ## Thanks!
 
